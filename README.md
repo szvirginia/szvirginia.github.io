@@ -14,7 +14,7 @@
 
 Itt találhatók a biztonság-fókuszú fejlesztői projektjeim, ahol a backend logikát és az adatbiztonságot gyakorlom.
 
-* [x] **Personal Budget Tracker** - CRUD alapok & Pénzügyi logika ([Kód itt](./projects/budget-tracker/))
+* [x] **Personal Budget Tracker** - CRUD alapok & Pénzügyi logika ([Kód itt](./projects/BudgetTracker/))
 * [ ] **Corporate Asset Inventory** - Komplex lekérdezések & XSS védelem - *Folyamatban (Adatbázis kész)*
 * [ ] **Secure Login System** - Jelszó hash-elés & Szerepkörkezelés (Hamarosan)
 * [ ] **Analyst Dashboard** - Log elemzés & Vizualizáció (Hamarosan)
