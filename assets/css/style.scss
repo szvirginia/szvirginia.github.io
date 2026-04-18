@@ -1,0 +1,22 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Ez egy pici "neon" keretet ad a kódblokkoknak, ami nagyon menő
+pre, code {
+  border: 1px solid #39ff14;
+  box-shadow: 0 0 5px #39ff14;
+  background-color: #000 !important;
+}
+
+// A linkek legyenek feltűnőbbek, hogy a HR-es tudja, hova kell kattintani
+a {
+  color: #39ff14;
+  text-decoration: none;
+  border-bottom: 1px dashed #39ff14;
+  &:hover {
+    color: #fff;
+    background-color: #39ff14;
+    text-shadow: none;
+  }
+}
