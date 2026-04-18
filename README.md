@@ -8,4 +8,7 @@
 * **PortSwigger:** Web Security Academy 🌐
 
 ## Legutóbbi Write-upok:
-*(Hamarosan érkeznek az első labor megoldások!)*
+* [TryHackMe Write-upok listája](./writeups/tryhackme/)
+
+## 🔗 Kapcsolat & Portfólió
+[LinkedIn](https://www.linkedin.com/in/szalaivirginia/) | [GitHub Profil](https://github.com/szvirginia)
