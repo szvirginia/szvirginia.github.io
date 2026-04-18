@@ -11,4 +11,4 @@
 * [TryHackMe Write-upok listája](./writeups/tryhackme/)
 
 ## 🔗 Kapcsolat & Portfólió
-[LinkedIn](https://www.linkedin.com/in/szalaivirginia/) | [GitHub Profil](https://github.com/szvirginia)
+[LinkedIn](www.linkedin.com/in/virgínia-szalai/) | [GitHub Profil](https://github.com/szvirginia)
