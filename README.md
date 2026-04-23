@@ -9,7 +9,7 @@
 - **PortSwigger:** Web Security Academy 🌐
 
 ## Legutóbbi Write-upok:
-- [TryHackMe Write-upok listája](./writeups/tryhackme/README.md)
+- [TryHackMe Write-upok listája](./writeups/tryhackme/index.md)
 
 
 ## Full-Stack Development (C# / .NET / SQL)
