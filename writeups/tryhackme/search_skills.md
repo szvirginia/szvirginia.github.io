@@ -17,4 +17,4 @@ A kiberbiztonság egyik legfontosabb eszköze a hatékony információkeresés. 
 A felderítési szakaszban (Reconnaissance) így találhatjuk meg a leggyorsabban a célpont gyenge pontjait.
 
 ---
-[Vissza a listához](/writeups/tryhackme/)
+[Vissza a TryHackMe tanulmányokhoz](./)
