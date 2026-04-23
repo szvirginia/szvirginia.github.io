@@ -24,4 +24,7 @@ Itt találhatóak a biztonság-fókuszú fejlesztői projektjeim, ahol a backend
 
 ## 🔗 Kapcsolat & Portfólió
 
-[LinkedIn](https://www.linkedin.com/in/virgínia-szalai) | [GitHub Profil](https://github.com/szvirginia)
+<p align="left">
+  <a href="https://www.linkedin.com/in/virg%C3%ADnia-szalai">LinkedIn</a> | 
+  <a href="https://github.com/szvirginia">GitHub Profil</a>
+</p>
