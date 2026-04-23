@@ -5,7 +5,7 @@ title: Cisco - Introduction to Cybersecurity
 
 # Introduction to Cybersecurity 🛡️
 
-Ezt a kurzust egy **80%-os záróvizsgával** zártam a Cisco Networking Academy keretein belül.
+Ezt a kurzust egy **93%-os záróvizsgával** zártam a Cisco Networking Academy keretein belül.
 
 ### 📚 A kurzus felépítése (6 modul):
 
