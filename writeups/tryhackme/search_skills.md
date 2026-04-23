@@ -1,6 +1,6 @@
 # TryHackMe: Search Skills - Write-up 🔍
 
-### 📝 Összefoglaló
+### 📑 Összefoglaló
 A kiberbiztonság egyik legfontosabb eszköze nem egy bonyolult szoftver, hanem a hatékony információkeresés. Ebben a modulban megtanultam, hogyan használjam a keresőmotorokat (Google, DuckDuckGo) profi szinten, hogy célzott adatokat találjak.
 
 ### 🛠️ Amit tanultam (Google Dorking alapok)
@@ -14,3 +14,6 @@ A "Google Dorking" speciális operátorok használatát jelenti, amivel olyan in
 
 ### 💡 Miért fontos ez egy Pentesternek?
 A felderítési szakaszban (Reconnaissance) így találhatjuk meg a leggyorsabban a célpont gyenge pontjait, például régi aldomaineket, tesztoldalakat vagy publikusan maradt konfigurációs fájlokat anélkül, hogy közvetlenül megtámadnánk a szervert.
+
+---
+[Vissza a listához](./README)
