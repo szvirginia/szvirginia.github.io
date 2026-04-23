@@ -11,4 +11,4 @@ title: TryHackMe Tanulmányok
 * [Search Skills Write-up](/writeups/tryhackme/search_skills) — *Google Dorking alapok*
 
 ---
-[Vissza a főoldalra](/)
+[Vissza a főoldalra](../../)
