@@ -9,8 +9,8 @@
 - **PortSwigger:** Web Security Academy 🌐
 
 ## Legutóbbi Write-upok:
-- [TryHackMe Write-upok listája](./writeups/tryhackme/index.md)
-
+- [**TryHackMe** Write-upok listája](./writeups/tryhackme/index.md)
+- [**Cisco:** Junior Cybersecurity Analyst Path (CCST)](./writeups/cisco/index.md)
 
 ## Full-Stack Development (C# / .NET / SQL)
 
