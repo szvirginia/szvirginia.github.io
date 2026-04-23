@@ -1,19 +1,20 @@
+---
+layout: default
+title: Search Skills Write-up
+---
+
 # TryHackMe: Search Skills - Write-up 🔍
 
 ### 📑 Összefoglaló
-A kiberbiztonság egyik legfontosabb eszköze nem egy bonyolult szoftver, hanem a hatékony információkeresés. Ebben a modulban megtanultam, hogyan használjam a keresőmotorokat (Google, DuckDuckGo) profi szinten, hogy célzott adatokat találjak.
+A kiberbiztonság egyik legfontosabb eszköze a hatékony információkeresés. Ebben a modulban megtanultam a keresőmotorok profi használatát.
 
-### 🛠️ Amit tanultam (Google Dorking alapok)
-A "Google Dorking" speciális operátorok használatát jelenti, amivel olyan információkat is elérhetünk, amiket a fejlesztők nem szándékoztak publikussá tenni.
+### 🛠️ Amit tanultam (Google Dorking)
+* `site:example.com` – Adott weboldal keresése.
+* `filetype:pdf` – Fájlformátum szűrés.
+* `intitle:"index of"` – Nyitott könyvtárak.
 
-**Legfontosabb operátorok, amiket kipróbáltam:**
-* `site:example.com` – Csak az adott weboldalon keres.
-* `filetype:pdf` – Csak adott fájlformátumokat listáz (pl. elfelejtett dokumentációk, számlák).
-* `intitle:"index of"` – Nyitott könyvtárakat keres, ahol sokszor bizalmas fájlok érhetőek el.
-* `""` – Pontos kifejezésre való keresés.
-
-### 💡 Miért fontos ez egy Pentesternek?
-A felderítési szakaszban (Reconnaissance) így találhatjuk meg a leggyorsabban a célpont gyenge pontjait, például régi aldomaineket, tesztoldalakat vagy publikusan maradt konfigurációs fájlokat anélkül, hogy közvetlenül megtámadnánk a szervert.
+### 💡 Miért fontos ez?
+A felderítési szakaszban (Reconnaissance) így találhatjuk meg a leggyorsabban a célpont gyenge pontjait.
 
 ---
-[Vissza a listához](./README)
+[Vissza a listához](/writeups/tryhackme/)
